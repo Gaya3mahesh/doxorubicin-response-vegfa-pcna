@@ -47,10 +47,10 @@ Gene expression vs doxorubicin IC50 (Spearman):
 | Lung | VEGFA | 89 | 0.085 | 0.427 | 0.854 |
 | Lung | PCNA | 89 | -0.036 | 0.741 | 0.964 |
 
-![VEGFA vs doxorubicin IC50](figures/VEGFA_vs_doxorubicin_IC50.png)
-![PCNA vs doxorubicin IC50](figures/PCNA_vs_doxorubicin_IC50.png)
-![VEGFA by cancer type](figures/VEGFA_doxorubicin_by_cancer_type.png)
-![PCNA by cancer type](figures/PCNA_doxorubicin_by_cancer_type.png)
+![VEGFA vs doxorubicin IC50](VEGFA_vs_doxorubicin_IC50.png)
+![PCNA vs doxorubicin IC50](PCNA_vs_doxorubicin_IC50.png)
+![VEGFA by cancer type](VEGFA_doxorubicin_by_cancer_type.png)
+![PCNA by cancer type](PCNA_doxorubicin_by_cancer_type.png)
 
 ## Conclusion
 
